@@ -16,6 +16,6 @@ For armv8:
 
 # Docker Images
 
-[rustgtk](https://hub.docker.com/repository/docker/reininy/gtkrust) image on Dockerhub. 🐋
+[rustgtk](https://hub.docker.com/repository/docker/reininy/gtkrust) image on Dockerhub. 🐋 <br>
 [gtk-torizon-armv8](https://hub.docker.com/repository/docker/reininy/gtk-torizon-armv8) image on Dockerhub. 🐋
 
