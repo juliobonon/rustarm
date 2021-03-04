@@ -1,0 +1,13 @@
+/home/julio/projects/coding/learn-rust/gtk-rs/gtk-rs-app/target/release/deps/quote-53ad86e26685125b.rmeta: /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/home/julio/projects/coding/learn-rust/gtk-rs/gtk-rs-app/target/release/deps/libquote-53ad86e26685125b.rlib: /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/home/julio/projects/coding/learn-rust/gtk-rs/gtk-rs-app/target/release/deps/quote-53ad86e26685125b.d: /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs:

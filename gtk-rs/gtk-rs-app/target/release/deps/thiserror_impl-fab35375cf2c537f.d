@@ -1,0 +1,11 @@
+/home/julio/projects/coding/learn-rust/gtk-rs/gtk-rs-app/target/release/deps/libthiserror_impl-fab35375cf2c537f.so: /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs
+
+/home/julio/projects/coding/learn-rust/gtk-rs/gtk-rs-app/target/release/deps/thiserror_impl-fab35375cf2c537f.d: /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs
+
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/lib.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/ast.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/attr.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/expand.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/fmt.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/prop.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.24/src/valid.rs:
