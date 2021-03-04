@@ -6,4 +6,4 @@ As written on the official [Rust website](https://www.rust-lang.org/), if you ar
 
 # Deploying the Application to the Board #
 
-
+![Running the application on Apalis iMX6](https://docs.toradex.com/109253-rust-gtk.gif)
