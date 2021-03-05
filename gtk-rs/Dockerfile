@@ -32,19 +32,19 @@ RUN rustup default stable
 RUN rustup target add x86_64-unknown-linux-gnu
 RUN rustup target add ${TARGET}
 
-COPY gtk-rs-app/ .
+COPY glade/ .
 RUN cargo build --target=${TARGET} --release
-RUN ls /target/
+RUN ls -la
 
 FROM torizon/${TARGET_IMAGE}
 
 ENV DEBIAN_FRONTEND="noninteractive"
-#ENV ACCEPT_FSL_EULA=1
 
 RUN apt-get update && apt-get install -y && \
     apt-get install libgtk-3-0
 
-COPY --from=build /target/a*/release/gtk-rs /usr/bin/
+COPY --from=build /target/a*/release/glade /usr/bin/
+COPY --from=build imgs/torizon-icon.png /home/torizon/imgs/
 
-CMD /usr/bin/gtk-rs
+CMD /usr/bin/glade
 
