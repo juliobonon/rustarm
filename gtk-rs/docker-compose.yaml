@@ -30,20 +30,22 @@ services:
       - "c 13:* rmw"
       # ... for /dev/dri devices
       - "c 226:* rmw"
-  gtkrust: 
-    image: reininy/gtkrust
+  gladearm: 
+    image: reininy/gtk-torizon-armv8
     depends_on: 
       - weston
-    privileged: true
     environment:
     - DISPLAY=:0
+    - ACCEPT_FSL_EULA=1
     volumes:
-        - type: bind
-          source: /tmp
-          target: /tmp
-        - type: bind
-          source: /dev
-          target: /dev
-        - type: bind
-          source: /run/udev
-          target: /run/udev
+    - type: bind
+      source: /tmp
+      target: /tmp
+    - type: bind
+      source: /dev
+      target: /dev
+    - type: bind
+      source: /run/udev
+      target: /run/udev
+
+
