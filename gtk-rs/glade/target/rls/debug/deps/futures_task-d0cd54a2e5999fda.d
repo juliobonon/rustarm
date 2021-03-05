@@ -1,0 +1,11 @@
+/home/julio/projects/coding/rustarm/gtk-rs/glade/target/rls/debug/deps/futures_task-d0cd54a2e5999fda.rmeta: /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/lib.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/spawn.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/future_obj.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/noop_waker.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/arc_wake.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker_ref.rs
+
+/home/julio/projects/coding/rustarm/gtk-rs/glade/target/rls/debug/deps/futures_task-d0cd54a2e5999fda.d: /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/lib.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/spawn.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/future_obj.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/noop_waker.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/arc_wake.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker.rs /home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker_ref.rs
+
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/lib.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/spawn.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/future_obj.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/noop_waker.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/arc_wake.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker.rs:
+/home/julio/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.13/src/waker_ref.rs:
